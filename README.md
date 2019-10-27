@@ -41,7 +41,7 @@ yarn dev
 
 ## Deployment
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/LokeCarlsson/dev-card)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/LokeCarlsson/dev-card) [![Greenkeeper badge](https://badges.greenkeeper.io/LokeCarlsson/dev-card.svg)](https://greenkeeper.io/)
 
 ## License
 
