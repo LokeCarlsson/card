@@ -9,7 +9,7 @@
     "dev": "parcel index.pug --open"
   },
   "dependencies": {
-    "sass": "1.22.12",
+    "sass": "1.26.11",
     "animejs": "3.2.0"
   },
   "devDependencies": {
