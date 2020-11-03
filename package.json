@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "sass": "1.22.12",
-    "animejs": "3.2.0"
+    "animejs": "3.2.1"
   },
   "devDependencies": {
     "@babel/core": "7.2.0",
