@@ -1,4 +1,4 @@
-const createSocialLink = (name: string, url: string, node: HTMLElement) => {
+const createSocialLink = (name: string, url: string, node: HTMLElement): void => {
   const element: HTMLAnchorElement = document.createElement('a') as HTMLAnchorElement
   const text: Text = document.createTextNode(url.replace(/\/$/, "").split("/").pop())
   element.appendChild(text)
