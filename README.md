@@ -2,7 +2,7 @@
 
 # dev-card
 
-🏷 Dev business card
+🏷 Virtual business card
 
 ## Demo
 
